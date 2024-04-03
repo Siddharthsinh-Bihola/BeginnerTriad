@@ -4,7 +4,7 @@ Welcome to the Coding Problems Repository! This repository contains a collection
 
 ## Topics Covered:
 
--Formula Based Programs
+- Basaic Problems
 - Control Structures - {If,Switch,Loops}
 - 1-D and 2-D Arrays
 - Strings
