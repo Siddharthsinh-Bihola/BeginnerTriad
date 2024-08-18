@@ -1,6 +1,6 @@
 # Coding Problems Repository
 
-Welcome to the Coding Problems Repository! This repository contains a collection of beginner to intermediate level coding problems categorized by topics, along with solutions in C++ and Python.
+Welcome to the Coding Problems Repository! This repository contains a collection of beginner to intermediate level coding problems categorized by topics, along with solutions in C++, Javaand Python.
 
 ## Topics Covered:
 
